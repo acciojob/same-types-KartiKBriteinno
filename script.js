@@ -3,7 +3,7 @@ function isSameType(value1, value2) {
 		return true;
 	}
 	else if (value1===value2){
-		return true
+		return true;
 	}
 	else{
 		return false;
